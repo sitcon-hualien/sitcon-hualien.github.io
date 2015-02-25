@@ -1,0 +1,37 @@
+/* Default */
+
+body {
+	background-color: #EAFFEA; 	
+}
+
+
+/* block */
+
+.block {	
+	position: absolute; 
+	left: 50%; 
+	margin-left: -430px; 
+	width: 860px;
+	font-size: 20px;  
+}
+
+.block table {
+	background-color: #FFFFFF;
+	border: 1px solid #133413;  	
+}
+
+.block th {
+	background-color: #00AD00; 	
+	width: 141px;  
+	border: 1px solid #133413; 
+}
+
+.block td {
+	background-color: #FFFFFF; 
+	text-align: center; 	
+	border: 1px solid #133413; 
+}
+
+th.topic {
+	width: 280px; 	
+}
