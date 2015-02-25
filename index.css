@@ -22,7 +22,6 @@ body {
 
 .block th {
 	background-color: #00AD00; 	
-	width: 141px;  
 	border: 1px solid #133413; 
 }
 
@@ -32,6 +31,3 @@ body {
 	border: 1px solid #133413; 
 }
 
-th.topic {
-	width: 280px; 	
-}
