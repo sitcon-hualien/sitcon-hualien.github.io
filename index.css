@@ -1,69 +1,11 @@
-/* Default */
-
-body {
-	background-color: #EAFFEA; 	
-}
-
-
 /* block */
 
 .block {	
 	position: relative; 
 	left: 50%; 
-	margin-left: -430px; 
-	width: 860px;
+	margin-left: -512px; 
+	width: 1024px;
 	font-size: 20px; 
-}
-
-.block table {
-	background-color: #FFFFFF;
-	border: 1px solid #133413;  
-	border-collapse: collapse;
-}
-
-.block th {
-	background-color: #00AD00; 	
-	border: 1px solid #133413; 
-	font-size: 20px; 
-}
-
-.block td {
-	background-color: #FFFFFF; 
-	text-align: center; 	
-	border: 1px solid #133413;
-	font-size: 18px;  
-}
-
-th.id {
-	width: 32px; 	
-}
-
-th.date {
-	width: 75px; 
-}
-
-th.title {
-	width: 280px; 
-}
-
-th.speaker {
-	width: 150px; 
-}
-
-th.reg {
-	width: 68px; 
-}
-
-th.slide {
-	width: 85px; 
-}
-
-th.video {
-	width: 85px; 
-}
-
-th.photo {
-	width: 85px; 
 }
 
 /* footer */
